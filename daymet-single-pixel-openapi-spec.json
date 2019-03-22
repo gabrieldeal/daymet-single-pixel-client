@@ -40,6 +40,7 @@
             "in": "query",
             "name": "vars",
             "description": "Daymet Daily weather estimates.",
+            "collectionFormat": "csv",
             "type": "array",
             "items": {
               "type": "string"
@@ -49,6 +50,7 @@
             "in": "query",
             "name": "years",
             "description": "Subset on years [1980..2017].",
+            "collectionFormat": "csv",
             "type": "array",
             "items": {
               "type": "string"
@@ -115,6 +117,7 @@
             "in": "query",
             "name": "vars",
             "description": "Daymet Daily weather estimates.",
+            "collectionFormat": "csv",
             "type": "array",
             "items": {
               "type": "string"
@@ -124,6 +127,7 @@
             "in": "query",
             "name": "years",
             "description": "Subset on years [1980..2016].",
+            "collectionFormat": "csv",
             "type": "array",
             "items": {
               "type": "string"
@@ -191,6 +195,7 @@
             "in": "query",
             "name": "vars",
             "description": "Daymet Daily weather estimates.",
+            "collectionFormat": "csv",
             "type": "array",
             "items": {
               "type": "string"
@@ -200,6 +205,7 @@
             "in": "query",
             "name": "years",
             "description": "Subset on years [1980..2016].",
+            "collectionFormat": "csv",
             "type": "array",
             "items": {
               "type": "string"
@@ -266,6 +272,7 @@
             "in": "query",
             "name": "vars",
             "description": "Daymet Daily weather estimates.",
+            "collectionFormat": "csv",
             "type": "array",
             "items": {
               "type": "string"
@@ -275,6 +282,7 @@
             "in": "query",
             "name": "years",
             "description": "Subset on years [1980..2016].",
+            "collectionFormat": "csv",
             "type": "array",
             "items": {
               "type": "string"
