@@ -1,0 +1,24 @@
+{
+  "name": "daymet-single-pixel-client",
+  "version": "0.0.1",
+  "description": "Client API to DAYMET's Single Pixel Extraction web service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielmdeal/daymet-single-pixel-client.git"
+  },
+  "keywords": [
+    "climate",
+    "weather",
+    "daymet"
+  ],
+  "author": "Gabriel M Deal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielmdeal/daymet-single-pixel-client/issues"
+  },
+  "homepage": "https://github.com/gabrielmdeal/daymet-single-pixel-client#readme"
+}
