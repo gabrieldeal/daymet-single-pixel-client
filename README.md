@@ -4,6 +4,10 @@ Client API to DAYMET's Single Pixel Extraction Tool web service
 
 https://daymet.ornl.gov/single-pixel-tool-guide
 
+# Installation
+
+`$ npm install daymet-single-pixel-client --save`
+
 # Example usage
 
 ```Javascript
