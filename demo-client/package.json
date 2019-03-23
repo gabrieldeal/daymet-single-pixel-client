@@ -1,0 +1,14 @@
+{
+  "name": "demo-client",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "demo": "./index.js"
+  },
+  "dependencies": {
+    "cross-fetch": "^3.0.1",
+    "daymet-single-pixel-client": "..",
+    "es6-promise": "^4.2.6"
+  }
+}
