@@ -22,8 +22,8 @@ require("cross-fetch/polyfill");
 // Daymet.Gateway.init({ url: 'https://your-proxy-here.com/single-pixel' });
 
 var options = {
-  end: new Date(946904400000), // 2000-01-03
-  start: new Date(946731600000), // 2000-01-01
+  end: new Date(Date.UTC(2000, 0, 3)),
+  start: new Date(Date.UTC(2000, 0, 1)),
   vars: ["tmin", "tmax", "dayl", "prcp", "swe"]
 };
 var format = "json";
